@@ -1,49 +1,49 @@
 {
-	"project": [
-		{
-			"name": "Thai Open Source Ring",
-			"repo": "https://www.github.com/creatorsgarten/open.source.in.th",
-			"description": "A webring of 🇹🇭 Open Source Projects and Developers"
-		},
-		{
-			"name": "ThaiUI",
-			"repo": "https://www.github.com/oseda/thaiui",
-			"description": "Open-source UI library, design system, templates and plugins for Thai websites."
-		},
-		{
-			"name": "Elysia",
-			"repo": "https://www.github.com/elysia/elysia",
-			"description": "TypeScript framework supercharged by Bun with End-to-End Type Safety."
-		},
-		{
-			"name": "Contentsgarten",
-			"repo": "https://www.github.com/creatorsgarten/contentsgarten",
-			"description": "A modern, markdown-based cloud-native wiki engine"
-		},
-		{
-			"name": "techcal.dev",
-			"repo": "https://github.com/creatorsgarten/techcal.dev",
-			"description": "Calendar of Tech Event in your town"
-		},
-		{
-			"name": "Data Science Blocks",
-			"repo": "https://github.com/DataSciBlock/DataSciBlock",
-			"description": " Use blocks for data science. Graph, dataset, mutating data."
-		},
-		{
-			"name": "CodeJourney: Internship Stories",
-			"repo": "https://github.com/NongSnail/codejourney_internship_stories",
-			"description": "Collecting Internship Articles in the Programmer"
+  "project": [
+    {
+      "name": "Thai Open Source Ring",
+      "repo": "https://www.github.com/creatorsgarten/open.source.in.th",
+      "description": "A webring of 🇹🇭 Open Source Projects and Developers"
     },
     {
-			"name": "Parliament Watch",
-			"repo": "https://github.com/wevisdemo/parliament-watch",
-			"description": "record and visualise the Thai parliament information including politicians, assemblies, bills, voting processes, and promises."
+      "name": "ThaiUI",
+      "repo": "https://www.github.com/oseda/thaiui",
+      "description": "Open-source UI library, design system, templates and plugins for Thai websites."
     },
     {
-			"name": "Joy Treasury",
-			"repo": "https://github.com/siriwatknp/joy-treasury",
-			"description": "Design inspiration to reality with Joy UI."
-		}
-	]
+      "name": "Elysia",
+      "repo": "https://www.github.com/elysia/elysia",
+      "description": "TypeScript framework supercharged by Bun with End-to-End Type Safety."
+    },
+    {
+      "name": "Contentsgarten",
+      "repo": "https://www.github.com/creatorsgarten/contentsgarten",
+      "description": "A modern, markdown-based cloud-native wiki engine"
+    },
+    {
+      "name": "techcal.dev",
+      "repo": "https://github.com/creatorsgarten/techcal.dev",
+      "description": "Calendar of Tech Event in your town"
+    },
+    {
+      "name": "Data Science Blocks",
+      "repo": "https://github.com/DataSciBlock/DataSciBlock",
+      "description": " Use blocks for data science. Graph, dataset, mutating data."
+    },
+    {
+      "name": "CodeJourney: Internship Stories",
+      "repo": "https://github.com/NongSnail/codejourney_internship_stories",
+      "description": "Collecting Internship Articles in the Programmer"
+    },
+    {
+      "name": "Parliament Watch",
+      "repo": "https://github.com/wevisdemo/parliament-watch",
+      "description": "record and visualise the Thai parliament information including politicians, assemblies, bills, voting processes, and promises."
+    },
+    {
+      "name": "Joy Treasury",
+      "repo": "https://github.com/siriwatknp/joy-treasury",
+      "description": "Design inspiration to reality with Joy UI."
+    }
+  ]
 }
